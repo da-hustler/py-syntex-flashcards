@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest a new idea or improvement
-title: "[FEATURE] Short description"
+title: "[FEATURE] Learn Python"
 labels: enhancement
 assignees: ''
 ---
