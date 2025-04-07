@@ -8,7 +8,7 @@ assignees: ''
 
 ## 🐞 Bug Summary
 
-What’s the issue? Be specific.
+good first issue, enhancement, bugs Plenty of bugs enjoy
 
 ## ✅ Steps to Reproduce
 
