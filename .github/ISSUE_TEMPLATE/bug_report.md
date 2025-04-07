@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report something that isn’t working as expected
-title: "[BUG] Brief description"
+title: "[BUG]IMPROVEMENT Learn Python"
 labels: bug
 assignees: ''
 ---
