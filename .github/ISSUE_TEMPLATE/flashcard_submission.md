@@ -1,7 +1,7 @@
 ---
 name: Flashcard Submission
 about: Suggest a new Python flashcard (question + answer)
-title: "[CARD] New Flashcard: <short topic>"
+title: "[CARD] New Flashcard: IMPROVEMENT Learn Python"
 labels: flashcard, good first issue
 assignees: ''
 ---
